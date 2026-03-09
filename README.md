@@ -1,5 +1,5 @@
-# Bittensor Subnet Mining
-Bittensor Subnet Mining for my University Thesis  
+# Decentralized AI 
+Bittensor Decentralized AI + Subnet Mining implementation for my University Thesis  
 🚧 Under Construction 🚧
 
 ## Overview
